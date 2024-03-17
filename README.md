@@ -12,4 +12,5 @@ This translates to sharper diagnoses, streamlined workflows, and the potential t
 new medical intervention avenues. 
 
 Here we present the power of Machine Learning & Deep Learning in healthcare by predicting the *Lung cancer risk* , classifying the *Chest X-Ray Nodules*.
+
 [Video Link](https://1drv.ms/v/s!Aqd9u07YhB-XpI5PZM4aHnGUhK3miQ?e=ycqsKD)
