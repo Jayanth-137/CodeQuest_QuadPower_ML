@@ -11,4 +11,4 @@ AI's ability to analyse vast datasets unveils hidden patterns invisible to the h
 This translates to sharper diagnoses, streamlined workflows, and the potential to unlock
 new medical intervention avenues. 
 
-Here we present the power of Machine Learning & Deep Learning in healthcare by predicting the *Lung cancer risk* , classifying the *Chest Nodules*.
+Here we present the power of Machine Learning & Deep Learning in healthcare by predicting the *Lung cancer risk* , classifying the *Chest X-Ray Nodules*.
