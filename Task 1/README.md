@@ -1,0 +1,4 @@
+### Project Story 
+Initially, the dataset underwent rigorous data preprocessing procedures, including the identification and handling of null values. Subsequently, an Exploratory Data Analysis (EDA) was conducted to elucidate the inherent patterns within the dataset. Notably, a high correlation between the variables "Risk" and "Smoking History" was observed during this exploratory phase. Through meticulous feature selection techniques, the most pertinent features were identified for further analysis. To augment the dataset, a process known as data augmentation was employed, resulting in an expanded dataset. Multiple models were trained using this augmented data. Ultimately, after model evaluation, the Linear Generalized Additive Model (LinearGAM) was chosen as the optimal model due to its superior precision and minimal root mean square error.
+
+
